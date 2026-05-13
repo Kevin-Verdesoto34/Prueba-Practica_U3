@@ -1,0 +1,50 @@
+========================================
+Nombre del estudiante: Bravo Samuel
+Promedio: 8
+Nota Mayor: 9
+Nota Menor: 7
+Estado: APROBADO
+Fecha: Wed May 13 08:12:32 2026
+Lenguaje utilizado: C++
+========================================
+
+========================================
+Nombre del estudiante: Verdesoto Kevin
+Promedio: 7
+Nota Mayor: 10
+Nota Menor: 5
+Estado: APROBADO
+Fecha: Wed May 13 08:16:00 2026
+Lenguaje utilizado: C++
+========================================
+
+========================================
+Nombre del estudiante: Nuñez Bryan
+Promedio: 7.66667
+Nota Mayor: 10
+Nota Menor: 3
+Estado: APROBADO
+Fecha: Wed May 13 08:18:40 2026
+Lenguaje utilizado: C++
+========================================
+
+========================================
+Nombre del estudiante: Calvopiña Brandon
+Promedio: 6.33333
+Nota Mayor: 7
+Nota Menor: 6
+Estado: REPROBADO
+Fecha: Wed May 13 08:19:27 2026
+Lenguaje utilizado: C++
+========================================
+
+========================================
+Nombre del estudiante: Freire Alan
+Promedio: 8
+Nota Mayor: 9
+Nota Menor: 7
+Estado: APROBADO
+Fecha: Wed May 13 08:43:04 2026
+Lenguaje utilizado: C++
+========================================
+
